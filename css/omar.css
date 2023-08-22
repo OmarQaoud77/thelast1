@@ -1,0 +1,296 @@
+.navbar a {
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+}
+
+.text-in-center a {
+    margin-left: 20px;
+    margin-right: 20px;
+    color: rgb(121, 121, 121);
+
+}
+
+.log-reg a {
+    font-size: 18px;
+}
+
+.log-reg {
+
+    margin: auto;
+    margin-left: 350px;
+}
+
+.nav-cen {
+    margin: auto;
+    margin-left: 350px;
+}
+
+@font-face {
+    font-family: cairo;
+    src: url(../font/Cairo-Regular.ttf);
+
+}
+
+@font-face {
+
+    font-family: cairo-B;
+    src: url(../font/Cairo-Bold.ttf);
+}
+
+* {
+    font-family: cairo;
+}
+
+h1 {
+    font-family: cairo-B;
+}
+
+.h1-span {
+    font-family: cairo-B;
+
+}
+
+.social-midia-icon {
+    margin-top: 80px;
+}
+
+.photo01 {
+    background-color: rgb(255, 254, 254);
+    border-radius: 15px;
+    padding: 15px;
+    box-shadow: 0px 0px 2px rgb(114, 114, 114);
+    width: 60%;
+    position: relative;
+    height: 110px;
+    left: 62%;
+    bottom: 480px;
+
+}
+
+.photo02 {
+    background-color: rgb(255, 254, 254);
+    border-radius: 15px;
+    padding: 25px;
+    box-shadow: 0px 0px 2px rgb(114, 114, 114);
+    width: 100%;
+    position: relative;
+    height: 150px;
+    left: 37%;
+    bottom: 310px;
+
+
+}
+
+.ddzx {
+    width: 70%;
+}
+
+.pld {
+    width: 150%;
+    margin-top: 180px;
+    margin-left: -40px;
+}
+
+.figira {
+    margin-top: 100px;
+}
+
+.ttt1 {
+    margin-left: 180px;
+    color: #3A466D;
+}
+
+.photo03 {
+    background-color: rgb(255, 254, 254);
+    border-radius: 15px;
+    padding: 25px;
+    box-shadow: 0px 0px 2px rgb(114, 114, 114);
+    width: 400px;
+    position: relative;
+    height: 140px;
+    right: 27%;
+    bottom: 410px;
+
+
+}
+
+.im-g1 {
+    width: 80%;
+}
+
+.img-1sa {
+    width: 70%;
+    margin-top: 150px;
+}
+
+.D-poto2 {
+    margin-left: 350px;
+    margin-top: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(61, 61, 61);
+}
+
+@media only screen and (max-width: 600px) {
+    .log-reg {
+
+        margin: auto;
+        margin-left: 0px;
+        margin-top: 15px;
+    }
+
+    .nav-cen {
+        margin: auto;
+        margin-left: 0px;
+
+
+    }
+
+    .social-midia-icon {
+        margin-top: 15px;
+        margin-bottom: 80px;
+    }
+
+    .DX-NA a {
+        margin: 5px;
+    }
+
+    .DX-NA {
+        display: inline-block;
+    }
+
+    .fsz {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .line-darksz {
+        margin: auto;
+    }
+
+    .but0s {
+        margin: auto;
+        justify-content: center;
+    }
+
+    .im-g1 {
+        width: 100%;
+    }
+
+    .figira {
+        margin-top: 1px;
+    }
+
+    .zzz {
+        width: 50%;
+        margin-top: 40px;
+    }
+
+    .zzzz {
+        width: 70%;
+        margin-top: 40px;
+    }
+
+    .photo02 {
+        bottom: 50px;
+        left: 1;
+        width: 190%;
+    }
+
+    .photo03 {
+        right: 85;
+        bottom: 270;
+    }
+
+    .photo01 {
+        bottom: 380px;
+        width: 130%;
+    }
+
+    .img-1sa {
+        width: 80%;
+        margin-left: 250px;
+        margin-top: 150px;
+    }
+
+    .csz {
+        flex-direction: column;
+        margin-top: 80px;
+
+    }
+
+    .s6z {
+        top: -510px;
+        margin-bottom: -240px;
+        text-align: center;
+    }
+
+    .s6z1 {
+
+        margin-top: 40px;
+        top: -455px;
+        left: -55px;
+        text-align: center;
+        margin-bottom: -390px;
+
+    }
+
+    .szvv {
+        margin-left: 90px;
+
+    }
+
+
+    .zzzzsd {
+        flex-direction: column;
+        margin-top: 80px;
+
+    }
+
+    .dddddd {
+
+        margin: auto;
+        margin-top: 180px;
+    }
+
+    .zxq {
+        margin: auto;
+
+    }
+
+    .zxq1 {
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    .ddzx {
+        width: 60%;
+        
+    }
+
+    .pld {
+        width: 100%;
+        margin-top: 150px;
+        margin-left: 10px;
+    }
+
+    .D-poto2 {
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+
+    .oow {
+        margin: auto;
+        margin-bottom: 45px;
+    }
+.last1{
+width: 70%;}
+    .ttt1 {
+        margin: auto;
+        color: #3A466D;
+        text-align: center;
+    }
+}
